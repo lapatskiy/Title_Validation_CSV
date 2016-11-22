@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>core</groupId>
-	<artifactId>HU</artifactId>
+	<artifactId>Title_Validation_CSV</artifactId>
 	<version>${build.version}</version>
 	<packaging>jar</packaging>
 
